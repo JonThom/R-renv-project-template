@@ -1,0 +1,16 @@
+{
+  "R": {
+    "Version": "3.5.3",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://mirrors.dotsrc.org/cran"
+      },
+      {
+        "Name": "warn",
+        "URL": "1"
+      }
+    ]
+  },
+  "Packages": {}
+}
